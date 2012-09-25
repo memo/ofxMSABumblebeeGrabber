@@ -1,9 +1,9 @@
-MyAddon
+ofxBumblebeeGrabber
 =====================================
 
 Introduction
 ------------
-C++ openFrameworks addon 
+C++ openFrameworks addon to capture stereo images from bumblebee using libdc
 
 Licence
 -------
@@ -18,22 +18,16 @@ Copy to your openFrameworks/addons folder.
 
 Dependencies
 ------------
-none
+ofxLibDC
 
 Compatibility
 ------------
-OF0072
-
 
 Known issues
 ------------
-none
 
 Version history
 ------------
-### v1.1    23/09/2012
-- compatible with OF0072
-- renamed (uppercase) MSA namespace to (lowercase) msa. (kept MSA as an alias for backwards compatibility)
 
 
 
