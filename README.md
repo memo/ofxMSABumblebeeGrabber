@@ -15,10 +15,10 @@ The Mega Super Awesome Visuals Company
 Installation
 ------------
 Copy to your openFrameworks/addons folder.
+install PTGrey SDKs (FlyCapture and Triclops)
 
 Dependencies
 ------------
-ofxLibDC
 
 Compatibility
 ------------
