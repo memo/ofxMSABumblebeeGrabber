@@ -3,7 +3,7 @@ ofxBumblebeeGrabber
 
 Introduction
 ------------
-C++ openFrameworks addon to capture stereo images from bumblebee using libdc
+C++ openFrameworks addon to capture stereo images from a PointGrey bumblebee using PTGrey SDKs. 
 
 Licence
 -------
